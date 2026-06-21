@@ -25,21 +25,6 @@ Proyecto de **Ingeniería de Software** enfocado en la elicitación, análisis y
 | Especificación de RF/RNF | Documento estructurado |
 | Matriz de trazabilidad | Excel |
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `Diagrama StarUML LaboratorioNo.2.mdj` | Diagrama de casos de uso Lab. 2 |
-| `Diagrama StarUML.mdj` | Diagrama complementario |
-| `*.pdf` | Especificación completa de requisitos |
-
-## Contexto académico
-
-**Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -54,6 +39,21 @@ flowchart TD
     D --> I[Requisitos No Funcionales]
     D --> J[Matriz de Trazabilidad RF-RNF]
 ```
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `Diagrama StarUML LaboratorioNo.2.mdj` | Diagrama de casos de uso Lab. 2 |
+| `Diagrama StarUML.mdj` | Diagrama complementario |
+| `*.pdf` | Especificación completa de requisitos |
+
+## Contexto académico
+
+**Asignatura:** Ingeniería de Software · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 
