@@ -40,6 +40,21 @@ Proyecto de **Ingeniería de Software** enfocado en la elicitación, análisis y
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Modelo_De_Requisitos] --> B[Diagrama StarUML LaboratorioNo.2.mdj]
+    A --> C[Diagrama StarUML.mdj]
+    A --> D[Especificacion RF-RNF PDF]
+    B --> E[Diagrama de Casos de Uso - Actores y Flujos]
+    B --> F[Diagrama de Actividad - Flujos de Trabajo]
+    B --> G[Diagrama de Secuencia - Interacciones entre Objetos]
+    D --> H[Requisitos Funcionales]
+    D --> I[Requisitos No Funcionales]
+    D --> J[Matriz de Trazabilidad RF-RNF]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
